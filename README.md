@@ -1,6 +1,6 @@
 # design-patterns-prototype
 
-#Replicação do Objeto
+# Replicação do Objeto
 
 O Prototype é simplesmente um objeto parcial ou totalmente inicializado do qual faz uma cópia e é utilizado posteriormente por um propósito.
 
